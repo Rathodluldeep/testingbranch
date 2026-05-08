@@ -1,0 +1,5 @@
+DEBUG: 2026/05/07 19:50:46 logging.go:28: This is a debug message
+DEBUG: 2026/05/07 19:53:28 logging.go:33: This is a debug message
+WARN: 2026/05/07 19:53:28 logging.go:34: This is a warning message
+ERROR: 2026/05/07 19:53:28 logging.go:35: This is an error message
+INFO: 2026/05/07 19:53:28 logging.go:36: This is an info message

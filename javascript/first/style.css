@@ -1,0 +1,22 @@
+/* body{
+    background: pink;
+}
+
+div{
+    height:100px;
+    width: 100px;
+    color:white;
+    background: blueviolet;
+    border: 2px solid black;
+    border-radius: 5%;
+    text-align: center;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}

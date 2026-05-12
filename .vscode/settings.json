@@ -1,0 +1,17 @@
+{
+  "livePreview.defaultPreviewPath": "/webdev/html/index.html",
+  "sqltools.connections": [
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "database": "talently",
+      "username": "postgres"
+    }
+  ],
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "git.ignoreLimitWarning": true
+}
